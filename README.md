@@ -6,20 +6,23 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<h3 align="left">About me:</h3>
+<div>
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <h3 align="left">About me:</h3>
+  
+  - 🔭 I’m currently working in `PixelStudio` as `Software Developer`
+  
+  - 👯 I’m looking forward to collaborate on open source projects.
+  
+  - 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/AlejoDev-code)**
+  
+  - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
+  
+  - ⚡ Coding fact: "There are over 700 different programming languages".
+  
+  - 💪🏼 Fav Quote: "Great Developers never stop learning".
+</div>
 
-- 🔭 I’m currently working in `PixelStudio` as `Software Developer`
-
-- 👯 I’m looking forward to collaborate on open source projects.
-
-- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/AlejoDev-code)**
-
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
-
-- ⚡ Coding fact: "There are over 700 different programming languages".
-
-- 💪🏼 Fav Quote: "Great Developers never stop learning".
 
 <br>
 
